@@ -1,0 +1,37 @@
+X1, ..., X8 sono i partiti
+
+popol: popolazione della provincia
+
+uni: percentuale studenti universitari sulla popolazione
+
+aste: percentuale astenuti
+
+stranieri: percentuale stranieri
+
+redditobasso: percentuale persone reddito basso (< 15.000 euro)
+
+disoccup: tasso di disoccupazione
+
+FasciaEta: (0-18), (19-35), (36-50), (51-70), (70-oltre)
+
+perc_posti_osp: numero posti letto ospedali (vario tipo) rispetto alla popolazione
+
+km_popol: km_strade/popolazione
+
+km_sup: km_strade/estensione provincia
+
+perc_autostrade: percentuale autostrade su estensione rete stradale
+
+denunce_su_abitante: numero denunce su 100.000 abitanti
+
+
+FONTI:
+• ISTAT: Fattori socio-economici e demografici
+• Ministero dell’Interno: Risultati elettorali dei comuni
+• ACI: Infrastrutture stradali
+• Il Sole 24 Ore: Indagini criminalità 
+
+
+
+
+
